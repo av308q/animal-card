@@ -1,0 +1,7 @@
+/* add your CSS here */
+img{width: 300px}
+p.first{font-style: italic;}
+ul {list-style-type:none;}
+span {font-weight: bold;}
+div.intro{border: solid 1px gray; width: 300px; padding:10px ; border-radius:5px  }
+div.intro2{border: solid 1px gray;padding:10px ;} 
